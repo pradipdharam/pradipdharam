@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Python, Mongo, Git etc.
+- 🌱 I’m currently learning Data Structures & Algorithms.
+- 👯 I’m looking to collaborate on Data Engineering, Machine Learning, & Software Product Development.
+- 🤔 I’m looking for help with networking people of same interest.
+- 💬 Ask me about Python, Big Data, Machine Learning, Machine Coding, etc.
+- 📫 How to reach me: DM me on LinkedIn https://www.linkedin.com/in/pradipdharam/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Continuous Learner
 <!--
 **pradipdharam/pradipdharam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
