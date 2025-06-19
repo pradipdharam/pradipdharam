@@ -3,13 +3,10 @@
 - 🌱 I’m currently learning Data Structures & Algorithms.
 - 👯 I’m looking to collaborate on Data Engineering, Software Product Developmen & Machine Learning.
 - 🤔 I’m looking for help with networking people of same interest.
-- 💬 Ask me about Python, Big Data, Low Level Design or Machine Coding, Machine Learning etc.
+- 💬 Ask me about Python Programming, Low Level Design or Machine Coding, Machine Learning, Big Data etc.
+- 📫 How to reach me: DM me on LinkedIn in profile section
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Continuous Learner
-- 📫 How to reach me: DM me on LinkedIn <a href="https://in.linkedin.com/in/pradipdharam?trk=profile-badge" 
-   onclick="window.open(this.href, '_blank'); return false;">
-   Pradip Dharam
-</a>
               
 <!--
 **pradipdharam/pradipdharam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
