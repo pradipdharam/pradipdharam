@@ -6,7 +6,10 @@
 - 💬 Ask me about Python, Big Data, Low Level Design or Machine Coding, Machine Learning etc.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Continuous Learner
-- 📫 How to reach me: DM me on LinkedIn <a href="https://in.linkedin.com/in/pradipdharam?trk=profile-badge" target="_blank">Pradip Dharam</a>
+- 📫 How to reach me: DM me on LinkedIn <a href="https://in.linkedin.com/in/pradipdharam?trk=profile-badge" 
+   onclick="window.open(this.href, '_blank'); return false;">
+   Pradip Dharam
+</a>
               
 <!--
 **pradipdharam/pradipdharam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
