@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on product development, Python, Mongo, Git & more etc.
 - 🌱 I’m currently learning Data Structures & Algorithms.
-- 👯 I’m looking to collaborate on Data Engineering, Software Product Developmen & Machine Learning.
+- 👯 I’m looking to collaborate on Python Software Product Development, enabled by Data Engineering & Machine Learning.
 - 🤔 I’m looking for help with networking people of same interest.
 - 💬 Ask me about Python Programming, Low Level Design or Machine Coding, Machine Learning, Big Data etc.
 - 📫 How to reach me: DM me on LinkedIn in profile section
