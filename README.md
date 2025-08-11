@@ -1,10 +1,10 @@
 ### Hi there 👋
-- 🔭 I’m currently working on product development, Python, Mongo, Git & more etc.
-- 🌱 I’m currently learning Data Structures & Algorithms.
-- 👯 I’m looking to collaborate on Python Software Product Development, enabled by Data Engineering & Machine Learning.
-- 🤔 I’m looking for help with networking people of same interest.
-- 💬 Ask me about Python Programming, Low Level Design or Machine Coding, Machine Learning, Big Data etc.
-- 📫 How to reach me: DM me on LinkedIn in profile section
+- 🔭 I’m currently working on product development (developing new features or refactoring), Python, Mongo, SQLAlchemy, Git & more etc.
+- 🌱 I’m currently learning DSA (Data Structures & Algorithms), Concurrency.
+- 👯 I’m looking to collaborate on Python Software Product Development, enabled by Data/AI Engineering.
+- 🤔 Exploring and figuring out the steps to become Engineering Manager in Software/AI Engineering.
+- 💬 Ask me about Python Programming, Low Level Design, Code Refactoring, Distributed Data Processing etc.
+- 📫 How to reach me: DM me on LinkedIn in profile section. I’m looking for networking with people of same interest.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Continuous Learner
               
