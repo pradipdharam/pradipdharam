@@ -4,7 +4,7 @@
 - 🌱 Hands-on developing new & refactoring existing features of the product, data pipelines.
 - 👯 My long term interest is been Python Software Product Development along with Data/AI Engineering.
 - 💬 Ask me about Python Programming, Low Level Design, Code Refactoring, Distributed Data Processing etc.
-- 📫 How to reach me: DM me on LinkedIn in profile section. I’m looking for networking with people of same interest.
+- 📫 How to reach me: [DM me on LinkedIn](https://www.linkedin.com/in/pradipdharam).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Continuous Learner
               
