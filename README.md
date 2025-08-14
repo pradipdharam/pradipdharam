@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🤔 Looking forward to collaborate with Software Product's Engineering Leaders/Managers in Software/AI Engineering.
-- 🔭 I’m currently working on product development, Python, Mongo, SQLAlchemy, Git & more etc.
-- 🌱 I’m currently learning DSA (Data Structures & Algorithms), Concurrency.
-- 👯 I’m looking to collaborate on Python Software Product Development, Data/AI Engineering.
+- 🤔 Looking forward to collaborate with Software Product's Engineering Leaders/Managers in Software/AI/Data Engineering.
+- 🔭 I’m currently working on product development, Python, Mongo, SQLAlchemy, Git & learning DSA
+- 🌱 Got my hads dirty enough on developing new and refactoring existing features of the product, and developed data pipelines.
+- 👯 My long term interest is been Python Software Product Development along with Data/AI Engineering.
 - 💬 Ask me about Python Programming, Low Level Design, Code Refactoring, Distributed Data Processing etc.
 - 📫 How to reach me: DM me on LinkedIn in profile section. I’m looking for networking with people of same interest.
 - 😄 Pronouns: He/Him
