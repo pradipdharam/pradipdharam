@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🤔 Keen to collaborate with Software Product's Engineering Leaders in Software/AI/Data Engineering.
+- 🤔 Keen to network and collaborate with Software Product's Engineering Leaders in Software/AI/Data Engineering.
 - 🔭 I’m currently working on product development, Python, Mongo, SQLAlchemy, Git & learning DSA
 - 🌱 Hands-on developing new & refactoring existing features of the product, data pipelines.
 - 👯 My long term interest is been Python Software Product Development along with Data/AI Engineering.
