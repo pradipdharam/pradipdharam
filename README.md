@@ -1,24 +1,9 @@
 ### Hi there 👋
-- 🌏 Keen to network and collaborate with Software Product's Engineering Leaders in Software/AI/Data Engineering.
-- 🔭 I’m currently working on product development, Python, Mongo, SQLAlchemy, Git & learning DSA
-- 🌱 Hands-on developing new & refactoring existing features of the product, data pipelines.
-- 👯 My long term interest is been Python Software Product Development along with Data/AI Engineering.
-- 💬 Ask me about Python Programming, Low Level Design, Code Refactoring, Distributed Data Processing etc.
-- 📫 How to reach me: [DM me on LinkedIn](https://www.linkedin.com/in/pradipdharam).
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Continuous Learner
-              
-<!--
-**pradipdharam/pradipdharam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌏 Backend & Product Systems Engineer focused on scalable service architecture and data-intensive platforms.
+- 🔭 Currently building and evolving backend systems using Python, MongoDB, SQLAlchemy, and modern Git workflows.
+- 🌱 Hands-on in feature development, architectural refactoring, and workflow-driven service modeling.
+- 👯 Interested in high-scale backend engineering, distributed systems, and product architecture.
+- 💬 Ask me about Python, API design, system modeling, code refactoring, and event-driven architecture.
+- 📫 How to reach me: [DM me on LinkedIn](https://www.linkedin.com/in/pradipdharam)
+- ⚡ Engineering philosophy: Build systems that are simple, extensible, and evolvable.
