@@ -7,4 +7,6 @@
 - 💬 Ask me about Python, API design, system modeling, code refactoring, and event-driven systems.
 - ⚡ Engineering philosophy: Build systems that are simple, extensible, and evolvable.
 - 📌 Explore the pinned repositories for production-style backend service design examples.
-- 📫 Connect with me on  [LinkedIn](https://www.linkedin.com/in/pradipdharam).
+- 📫 Connect with me on  [LinkedIn](https://www.linkedin.com/in/pradipdharam). Explore Daily Posts on my LinkedIn post feed 
+- 🚀 Explore my System Design Weekly Newletters and Monthly Deep Dive's on https://pradipdharam.substack.com/
+- 🔭 My articles on software engineering on medium https://medium.com/@pradip.dharam
