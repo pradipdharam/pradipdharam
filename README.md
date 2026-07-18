@@ -10,4 +10,4 @@
 - 📫 Connect with me on  [LinkedIn](https://www.linkedin.com/in/pradipdharam). Explore Daily Posts on my LinkedIn post feed 
 - 🚀 Explore my System Design Weekly Newletters and Monthly Deep Dive's on https://pradipdharam.substack.com/
 - 🔭 My articles on software engineering on medium https://medium.com/@pradip.dharam
-- 💬 Share a Real Engineering Challenge You’re Facing - https://docs.google.com/forms/d/e/1FAIpQLSd3M0LnWJjnL7sBAsOB5fayOTBLVjhYRKmmMB0XGQ8TFzmNwQ/viewform?usp=publish-editor 
+- 💬 Share a Real Engineering Challenge You’re Facing - https://tinyurl.com/share-engineering-challenge
